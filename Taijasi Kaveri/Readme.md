@@ -1,4 +1,4 @@
-Name : Taijasi Kaveri.
+**Name : Taijasi Kaveri.
  Participating in GSOC tasks.
  Participating in DSA tasks.
  
